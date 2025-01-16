@@ -7,6 +7,9 @@ import android.util.Log
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
 import java.lang.ref.WeakReference
+import io.flutter.embedding.engine.FlutterEngine
+
+
 
 /**
  * Created by Wilberforce on 26/07/18 at 18:35.
